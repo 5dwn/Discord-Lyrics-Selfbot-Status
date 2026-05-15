@@ -1,0 +1,4 @@
+requests
+syncedlyrics
+winrt
+logbook
