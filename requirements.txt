@@ -1,4 +1,6 @@
 requests
 syncedlyrics
-winrt
 logbook
+winrt-runtime
+winrt-Windows.Foundation
+winrt-Windows.Media.Control
