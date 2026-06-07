@@ -2,6 +2,8 @@
 
 just a simple python script I made that grabs whatever music you're listening to on windows (like on spotify) and updates your discord custom status with the real-time lyrics of the song.
 
+### [Tutorial here!](https://www.youtube.com/watch?v=5RDWmaV7O2U)
+
 ### what it does
 
 - hooks into windows media controls to see what's playing.
